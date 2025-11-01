@@ -1,1 +1,3 @@
 # SoC-Lora
+
+A tarefa tinha como propósito usar a rede Lora para o envio e recebimento de dados de umidade/temperatura entre a FPGA Colorlight i9 e a Bitdoglab, apresentando os dados pelo display OLED instalado na Bitdoglab. Porém a tarefa não conseguiu ser avançada e está incompleta...
